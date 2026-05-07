@@ -1,0 +1,6 @@
+python=3.10.0
+langchain
+openai
+pydantic
+python-dotenv
+streamlit
